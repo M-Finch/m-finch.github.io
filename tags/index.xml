@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mister Finch</title>
-    <link>https://M-Finch.github.io/tags/</link>
+    <link>https://m-finch.github.io/tags/</link>
     <description>Recent content in Tags on Mister Finch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://M-Finch.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m-finch.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dev</title>
-      <link>https://M-Finch.github.io/tags/dev/</link>
+      <link>https://m-finch.github.io/tags/dev/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://M-Finch.github.io/tags/dev/</guid>
+      <guid>https://m-finch.github.io/tags/dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gohugio</title>
-      <link>https://M-Finch.github.io/tags/gohugio/</link>
+      <link>https://m-finch.github.io/tags/gohugio/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://M-Finch.github.io/tags/gohugio/</guid>
+      <guid>https://m-finch.github.io/tags/gohugio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>m10c</title>
-      <link>https://M-Finch.github.io/tags/m10c/</link>
+      <link>https://m-finch.github.io/tags/m10c/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://M-Finch.github.io/tags/m10c/</guid>
+      <guid>https://m-finch.github.io/tags/m10c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thème-Hugo</title>
-      <link>https://M-Finch.github.io/tags/th%C3%A8me-hugo/</link>
+      <link>https://m-finch.github.io/tags/th%C3%A8me-hugo/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://M-Finch.github.io/tags/th%C3%A8me-hugo/</guid>
+      <guid>https://m-finch.github.io/tags/th%C3%A8me-hugo/</guid>
       <description></description>
     </item>
     
