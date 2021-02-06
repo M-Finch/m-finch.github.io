@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mister Finch</title>
-    <link>https://m-finch.github.io/</link>
-    <description>Recent content on Mister Finch</description>
+    <title>IdePython on Mister Finch</title>
+    <link>https://m-finch.github.io/tags/idepython/</link>
+    <description>Recent content in IdePython on Mister Finch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m-finch.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://m-finch.github.io/tags/idepython/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ma liste de package python pour sublime text 3</title>
       <link>https://m-finch.github.io/posts/packages-sublime-text3/</link>
@@ -16,18 +16,6 @@
       <description>Aujourd&amp;rsquo;hui je vais vous présenter ma liste de package pour dev sur mon éditeur de code préféré qui est SublimeText3. Disponible sous Mac, Windows et linux.
 Ma liste de package Le meilleur thème de sublime text 3 -&amp;gt; Guna Que dire&amp;hellip; Ce thème est magnifique, personnalisable, innovant bref en un seul mot le meilleur pour moi.
 Voici une liste de mes packages Python  Flask Completions PyQt5 Python 3  Python Completions SublimePythonIde  Voici une liste de mes packages &amp;ldquo;Autres&amp;rdquo;  Emmet Git Jinja2 Markdown Preview SideBarEnhancements Terminus   Voila ma liste exhaustive de mes packages pour sublimetext3 pour dev en python.</description>
-    </item>
-    
-    <item>
-      <title>Installation du thème m10c gohugo.io </title>
-      <link>https://m-finch.github.io/posts/tutoriel-hugo/</link>
-      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://m-finch.github.io/posts/tutoriel-hugo/</guid>
-      <description>Pour mon premier article, j&amp;rsquo;ai décidé de vous montrer comment installer le thème m10c.
-Gohugo c&amp;rsquo;est quoi ? &amp;ldquo;Hugo est un générateur de site statique rapide et moderne écrit en Go et conçu pour rendre la création de site Web à nouveau amusante&amp;rdquo; traduction de hugo.
-Installation Sous Mac  brew install hugo Sous Windows Si vous utilisez le gestionnaire de paquet Chocolatey
- choco install hugo -confirm Si vous utilisez le gestionnaire de paquet Scoop</description>
     </item>
     
   </channel>
